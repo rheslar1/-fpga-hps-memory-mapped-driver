@@ -57,13 +57,13 @@ This repository includes a host-buildable C++17 implementation, not only documen
 - SOLID boundaries between profile data, input acquisition, validation, telemetry encoding, and tests.
 <!-- cpp17-solid-implementation:end -->
 
-<!-- deep-architecture-links:start -->
+<!-- detailed design archtitecture-links:start -->
 ## Deep Architecture and UML
 
-- [Deep architecture](docs/deep-architecture.md)
+- [Deep architecture](docs/detailed design archtitecture.md)
 - [Full UML Draw.io source](docs/diagrams/full-system-uml.drawio)
 - [Full UML PNG export](docs/diagrams/full-system-uml.png)
-<!-- deep-architecture-links:end -->
+<!-- detailed design archtitecture-links:end -->
 
 <!-- DESIGN_PACKAGE_START -->
 ## Detailed Design Package

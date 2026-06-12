@@ -10,5 +10,5 @@ This folder contains the generated full-system UML evidence for `FPGA to HPS Mem
 Regenerate these assets from the portfolio workspace with:
 
 ```bash
-python3 scripts/generate-deep-architecture-assets.py
+python3 scripts/generate-detailed design archtitecture-assets.py
 ```
